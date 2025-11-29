@@ -1,5 +1,5 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/anastasiakonopla/Desktop/Lab3/oop-labs-anastas1iakonoplia/Lab3/output/lab3'
+binary-path:     '/Users/anastasiakonopla/Desktop/oop-labs-anastas1iakonoplia/Lab3/output/lab3'
 relocations:     []
 ...
