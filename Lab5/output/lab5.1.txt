@@ -1,0 +1,3 @@
+int(10) + double(1.50)
+int(20) + double(1.22)
+int(30) + double(2.70)
